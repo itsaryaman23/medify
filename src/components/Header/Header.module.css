@@ -1,0 +1,36 @@
+.topBanner {
+    height: 40px;
+    background-color: #2AA7FF;
+    text-align: center;
+    align-content: center;
+}
+.bannerText{
+    margin: 0;
+    color: white;
+}
+.hero{
+    height: 832px;
+    background: linear-gradient(81deg, #E7F0FF 9.01%, rgba(232, 241, 255, 0.47) 89.11%);
+
+}
+.nav{
+    height: 96px;
+}
+.navBtnBox{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.navAlign{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bookingBtn{
+    width: 130px;
+    height: 40px;
+    background-color: #2AA7FF;
+    border-radius: 8px;
+    border: none;
+}
